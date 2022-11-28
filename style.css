@@ -1,0 +1,23 @@
+h1{
+  backdrop-filter: red;
+  font-size: 60px;
+  font-family: Rubik Microbe;
+}
+
+p{
+  font-size: 25px;
+  font-style: inherit;
+  
+}
+h2{
+font-size: 50px;
+  
+}
+h3{
+
+  font-size: 30px;
+}
+h4{
+  color: red;
+  font-size: 25px;
+}
